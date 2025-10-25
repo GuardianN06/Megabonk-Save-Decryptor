@@ -27,7 +27,7 @@ The script automatically scans your save directory:
 ```bash
 git clone https://github.com/GuardianN06/Megabonk-Save-Decryptor.git
 cd Megabonk-Save-Decryptor
-python decryptor.py
+python decrypt_megabonk.py
 ```
 
 ### Open file in text editor, modify what you like and enjoy!
