@@ -5,7 +5,7 @@ This script **DOES NOT** backup your saves. Save them before using this.
 
 A simple Python tool for decrypting and encrypting **Megabonk** game save files (`progression.json` and `stats.json`) stored locally on Windows.  
 This utility makes it easy to view, modify, or back up your save data by handling the AES encryption used by the game.
-
+Files should be encrypted after changes, re-run the script and encrypt.
 
 
 ---
